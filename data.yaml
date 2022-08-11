@@ -1,0 +1,6 @@
+names:
+- carton
+- plastic
+nc: 2
+train: /content/drive/MyDrive/Colab Notebooks/yolov5/trash-1/train/images
+val: /content/drive/MyDrive/Colab Notebooks/yolov5/trash-1/valid/images
